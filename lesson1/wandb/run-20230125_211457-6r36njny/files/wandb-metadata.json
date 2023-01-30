@@ -1,0 +1,71 @@
+{
+    "os": "Linux-5.15.0-58-generic-x86_64-with-glibc2.35",
+    "python": "3.10.6",
+    "heartbeatAt": "2023-01-25T15:44:59.098566",
+    "startedAt": "2023-01-25T15:44:57.023239",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "lesson1/1_EDA-jvsc-bf933a98-482e-4c3a-9982-045fea6c240dc16456de-5039-47d4-ac6b-109957117ed3.ipynb",
+    "root": "/home/pranith/Desktop/Development/wandb_mlops_course",
+    "host": "pranith-Aspire-A315-55G",
+    "username": "pranith",
+    "executable": "/bin/python3",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 1673.76625,
+        "min": 400.0,
+        "max": 3900.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1263.867,
+            "min": 400.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1800.0,
+            "min": 400.0,
+            "max": 3900.0
+        },
+        {
+            "current": 798.213,
+            "min": 400.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1800.0,
+            "min": 400.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1800.0,
+            "min": 400.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1800.0,
+            "min": 400.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1800.0,
+            "min": 400.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1800.0,
+            "min": 400.0,
+            "max": 3900.0
+        }
+    ],
+    "disk": {
+        "total": 915.3232879638672,
+        "used": 30.370479583740234
+    },
+    "memory": {
+        "total": 7.612373352050781
+    }
+}
